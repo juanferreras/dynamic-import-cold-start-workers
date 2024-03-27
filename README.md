@@ -1,4 +1,4 @@
-# Dynamic Imports impact on Cold Starts (using Workers with Wrangler, `--no-build`)
+# Dynamic Imports impact on Cold Starts (using Workers with Wrangler, `--no-bundle`)
 
 Install the dependencies with:
 ```sh
